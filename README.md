@@ -17,7 +17,7 @@
 - These posts relate information about travel destinations, reviews, recommendations, or any other facts and ideas that they want people to know before going on the trip.
 - Users are able to search for posts by author, location, title, and date and filter posts by Recent Posts or Oldest Posts. 
 
-<img src="https://github.com/AnnaBKC/Travel-Log-WebApp/blob/main/appScreenshots/HomePage1.png" height=700 width=750>
+<img src="https://github.com/AnnaBKC/Travel-Log-WebApp/blob/main/appScreenshots/HomePage1.png" height=750 width=850>
 
 ### Registration Page
 - Users have the option to make a post anonymously or register and log in to make a post showing their name.
